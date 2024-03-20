@@ -18,4 +18,4 @@ When it comes to object detection, popular detection frameworks are
 
  ### sample output :
  ![](object-detection.jpg)
-)
+
