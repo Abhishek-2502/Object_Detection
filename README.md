@@ -19,3 +19,6 @@ When it comes to object detection, popular detection frameworks are
  ### Sample Output :
  ![](object-detection.jpg)
 
+## Author
+
+Abhishek Rajput.
