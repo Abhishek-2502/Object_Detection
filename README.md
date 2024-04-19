@@ -16,6 +16,6 @@ When it comes to object detection, popular detection frameworks are
 `pip install numpy opencv-python`
 
 
- ### sample output :
+ ### Sample Output :
  ![](object-detection.jpg)
 
